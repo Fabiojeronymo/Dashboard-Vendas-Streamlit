@@ -1,6 +1,7 @@
 [theme]
-primaryColor="#e66343c7"
-backgroundColor="#ffffffff"
-secondaryBackgroundColor="#ffffffff"
-textColor="#000000ff"
+primaryColor = "#5FB3E8"
+backgroundColor = "#0E1117"        
+secondaryBackgroundColor = "#262730" 
+textColor = "#FAFAFA"              
 font="sans serif"
+chartCategoricalColors = ["#1E90FF", "#FF6347", "#00FA9A", "#FFFF00", "#DA70D6"]
